@@ -1,6 +1,5 @@
 # ZebraT-Simulator
-An ROS Simulator for Autonomous Delivery Robot ZebraT
-
+An ROS Simulator for an Autonomous Delivery Robot ZebraT
 
 # How to Use
 1. Git it the zebrat package to you ROS workspace.
@@ -11,3 +10,8 @@ An ROS Simulator for Autonomous Delivery Robot ZebraT
 ![car](/zsim.png)
 5. Keyboard Control `rosrun zebrat keyboard_teleop.py`
 6. Change Gazebo world in `/launch/zebrat_with_world.launch`
+7. Change sensors in `/urdf/zebrat.urdf.xacro`
+
+# Paper
+"Design and Implement an Enhanced Simulator for Autonomous Delivery Robot"
+will be submitted to MetroCAD 2022.
