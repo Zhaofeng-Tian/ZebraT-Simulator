@@ -16,4 +16,5 @@ An ROS Simulator for an Autonomous Delivery Robot ZebraT
 
 # Paper
 "Design and Implement an Enhanced Simulator for Autonomous Delivery Robot"
-\n will be submitted to MetroCAD 2022.
+
+will be submitted to MetroCAD 2022.
