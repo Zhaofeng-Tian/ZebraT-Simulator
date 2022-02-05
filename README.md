@@ -6,7 +6,8 @@ An ROS Simulator for Autonomous Delivery Robot ZebraT
 1. Git it the zebrat package to you ROS workspace.
 2. Make this package under the workspace namespace.
 `catkin_make ` and use `rospack profile` to update package list.
-3. Test with `roslaunch zebrat zebrat_with_world`
-
-
+3. Test with `roslaunch zebrat zebrat_with_world.launch`
+4. Expected result:
 ![car](/zsim.png)
+5. Keyboard Control `rosrun zebrat keyboard_teleop.py`
+6. Change Gazebo world in `/launch/zebrat_with_world.launch`
