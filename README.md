@@ -12,6 +12,7 @@ An ROS Simulator for an Autonomous Delivery Robot ZebraT
 5. Keyboard Control `rosrun zebrat keyboard_teleop.py`
 6. Change Gazebo world in `/launch/zebrat_with_world.launch`
 7. Change sensors in `/urdf/zebrat.urdf.xacro`
+8. Test your own tasks.
 
 # Paper
 "Design and Implement an Enhanced Simulator for Autonomous Delivery Robot"
