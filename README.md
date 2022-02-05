@@ -8,6 +8,7 @@ An ROS Simulator for an Autonomous Delivery Robot ZebraT
 3. Test with `roslaunch zebrat zebrat_with_world.launch`
 4. Expected result:
  <img src="./zsim.png" width = "50%" height = "50%" alt="Simulation" align=center />
+
 5. Keyboard Control `rosrun zebrat keyboard_teleop.py`
 6. Change Gazebo world in `/launch/zebrat_with_world.launch`
 7. Change sensors in `/urdf/zebrat.urdf.xacro`
