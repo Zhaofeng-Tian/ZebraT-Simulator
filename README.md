@@ -7,3 +7,6 @@ An ROS Simulator for Autonomous Delivery Robot ZebraT
 2. Make this package under the workspace namespace.
 `catkin_make ` and use `rospack profile` to update package list.
 3. Test with `roslaunch zebrat zebrat_with_world`
+
+
+![car](/zsim.png)
