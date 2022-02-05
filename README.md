@@ -7,7 +7,7 @@ An ROS Simulator for an Autonomous Delivery Robot ZebraT
 `catkin_make ` and use `rospack profile` to update package list.
 3. Test with `roslaunch zebrat zebrat_with_world.launch`
 4. Expected result:
-![car](/zsim.png)
+![car](/zsim.png){:height="50%" width="50%"}
 5. Keyboard Control `rosrun zebrat keyboard_teleop.py`
 6. Change Gazebo world in `/launch/zebrat_with_world.launch`
 7. Change sensors in `/urdf/zebrat.urdf.xacro`
