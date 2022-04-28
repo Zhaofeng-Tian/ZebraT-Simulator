@@ -2,9 +2,9 @@
 An ROS Simulator for an Autonomous Delivery Robot ZebraT
 
 # How to Use
-1. Git it the zebrat package to you ROS workspace.
+1. Git clone the zebrat package to you ROS workspace.
 2. Make this package under the workspace namespace.
-`catkin_make ` and use `rospack profile` to update package list.
+`catkin_make ` to compile it and use `rospack profile` to update package list.
 3. Test with `roslaunch zebrat zebrat_with_world.launch`
 4. Expected result:
  <img src="./zsim.png" width = "50%" height = "50%" alt="Simulation" align=center />
