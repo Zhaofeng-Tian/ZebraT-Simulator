@@ -18,11 +18,12 @@ Paper link: [ZebraT Gazebo Simulator](https://arxiv.org/pdf/2205.07944.pdf)
 
 # Paper
 "Design and Implement an Enhanced Simulator for Autonomous Delivery Robot" MetroCAD 2022.
-@inproceedings{tian2022design,
+
+`@inproceedings{tian2022design,
   title={Design and implement an enhanced simulator for autonomous delivery robot},
   author={Tian, Zhaofeng and Shi, Weisong},
   booktitle={2022 Fifth International Conference on Connected and Autonomous Driving (MetroCAD)},
   pages={21--29},
   year={2022},
   organization={IEEE}
-}
+}`
